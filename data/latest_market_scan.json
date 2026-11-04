@@ -85,16 +85,16 @@
     },
     {
         "Activo": "BTC-USD",
-        "Fecha": "2026-11-03",
-        "Cierre_USD": 76796.8,
-        "Fase_Mercado_Macro": "Fallo Bajista",
-        "Fuerza_ADX": 21.66,
-        "RSI_14": 35.32,
-        "SAR_Distancia_%": 7.69,
-        "Diagnostico_MACD": "T. Bajista Fuerte",
+        "Fecha": "2026-11-04",
+        "Cierre_USD": 76841.29,
+        "Fase_Mercado_Macro": "Bajista Dominante",
+        "Fuerza_ADX": 22.45,
+        "RSI_14": 35.85,
+        "SAR_Distancia_%": 7.12,
+        "Diagnostico_MACD": "P\u00e9rdida de Inercia Bajista",
         "Mandato_OBV": "VENDER / PERMANECER EN CASH",
         "Mandato_ADX": "APAGAR",
         "Mandato_SAR": "MANTENER EN LIQUIDEZ",
-        "Mandato_Global_Sugerido": "Entrar Corto"
+        "Mandato_Global_Sugerido": "Hold Corto"
     }
 ]
